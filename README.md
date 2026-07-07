@@ -6,6 +6,24 @@
 
 ---
 
+## 🖥️ Arquitectura y Entorno Visual del Dashboard Interactivos
+
+A continuación se detalla la interfaz gráfica generada a partir del procesamiento automatizado del informe 10-K de Apple Inc. mediante el framework de Inteligencia Artificial.
+
+### 1. Panel de Control General & KPIs Operativos
+![Panel de Control General](./assets/dashboard_home.png)
+*Visualización global que consolida las principales métricas financieras, el balance de ingresos de hardware vs. servicios y las alertas tempranas del sistema de inteligencia de negocios.*
+
+### 2. Módulo de Grado de Inversión (Deep-Dive Financiero)
+![Módulo Financiero](./assets/financial_analytics_bi.png)
+*Análisis de márgenes de rentabilidad, comportamiento histórico del flujo de caja operativo y desglose del impacto del cargo impositivo extraordinario de la Unión Europea.*
+
+### 3. Matriz Predictiva y Simulador Dinámico de Escenarios
+![Simulador de Escenarios](./assets/predictive_scenarios_simulation.png)
+*Entorno dinámico que permite a los miembros de la Junta Directiva simular proyecciones financieras interactivas manipulando variables críticas de oferta y demanda en tiempo real.*
+
+---
+
 ## 🚀 El Enfoque del Proyecto (Prompt Engineering Avanzado)
 
 [cite_start]En lugar de utilizar la IA para hacer un resumen genérico, se diseñó un **framework multidisciplinario**[cite: 5, 59]. [cite_start]Mediante un "Prompt Maestro", se instruyó a la IA para adoptar simultáneamente los siguientes roles integrados para analizar el documento sin omitir información relevante[cite: 1, 2, 3, 9]:
