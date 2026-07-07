@@ -5,24 +5,27 @@
 [cite_start]Este proyecto sirve como una prueba de concepto sólida sobre **el impacto y el alcance de la Inteligencia Artificial Generativa cuando se guía mediante metodologías y roles estructurados**, demostrando cómo un profesional puede multiplicar su productividad y profundidad analítica si sabe interactuar correctamente con los Modelos de Lenguaje de Gran Escala (LLMs)[cite: 45, 46, 47].
 
 ---
-
-## 🖥️ Arquitectura y Entorno Visual del Dashboard Interactivos
+## 🖥️ Arquitectura y Entorno Visual del Dashboard Interactivo
 
 A continuación se detalla la interfaz gráfica generada a partir del procesamiento automatizado del informe 10-K de Apple Inc. mediante el framework de Inteligencia Artificial.
 
-### 1. Panel de Control General & KPIs Operativos
-![Panel de Control General](./assets/dashboard_home.png)
+### 1. Resumen de Desempeño Corporativo
+![Resumen de Desempeño Corporativo](./images/Resumen%20de%20Desempe%C3%B1o%20Corporativo.jpg)
 *Visualización global que consolida las principales métricas financieras, el balance de ingresos de hardware vs. servicios y las alertas tempranas del sistema de inteligencia de negocios.*
 
-### 2. Módulo de Grado de Inversión (Deep-Dive Financiero)
-![Módulo Financiero](./assets/financial_analytics_bi.png)
-*Análisis de márgenes de rentabilidad, comportamiento histórico del flujo de caja operativo y desglose del impacto del cargo impositivo extraordinario de la Unión Europea.*
+### 2. Distribución Geográfica y de Divisas
+![Distribución Geográfica y Divisas](./images/Distribuci%C3%B3n%20Geogr%C3%A1fica%20y%20Divisas.jpg)
+*Desglose de ingresos por región geográfica y exposición cambiaria, permitiendo evaluar el impacto de las fluctuaciones de divisas en los resultados consolidados.*
 
-### 3. Matriz Predictiva y Simulador Dinámico de Escenarios
-![Simulador de Escenarios](./assets/predictive_scenarios_simulation.png)
-*Entorno dinámico que permite a los miembros de la Junta Directiva simular proyecciones financieras interactivas manipulando variables críticas de oferta y demanda en tiempo real.*
+### 3. Evaluación y Mitigación de Riesgos
+![Evaluación y Mitigación de Riesgos](./images/Evaluaci%C3%B3n%20y%20Mitigaci%C3%B3n%20de%20Riesgos.jpg)
+*Análisis de los principales riesgos identificados en el informe 10-K y las estrategias de mitigación asociadas.*
 
+### 4. Matriz Predictiva y Simulador Dinámico de Escenarios
+![Simulador de Escenarios](./images/Simulador%20de%20Escenarios.jpg)
+*Entorno dinámico que permite simular proyecciones financieras interactivas manipulando variables críticas de oferta y demanda en tiempo real.*
 ---
+
 
 ## 🚀 El Enfoque del Proyecto (Prompt Engineering Avanzado)
 
